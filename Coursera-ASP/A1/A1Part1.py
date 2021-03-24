@@ -32,3 +32,7 @@ def readAudio(inputFile):
     """
     ## Your code here
 
+    import scipy.io.wavefile
+    fs,x = wavfile.read(inputFile)
+    x = x[50001:50011]
+    return x
