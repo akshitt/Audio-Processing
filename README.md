@@ -3,4 +3,4 @@ Will be reading up on audio processing and keeping relevant stuff here. Link to 
 
 ## Week-1
 - Went through MFCC [tutorial](https://www.kaggle.com/ilyamich/mfcc-implementation-and-tutorial), Here's the [summary](./MFCC_tutorial.ipynb) for reference.
-- Coursera course on [Audio Signal Processing](https://www.coursera.org/learn/audio-signal-processing) 
+- Completed a [course](https://www.coursera.org/learn/audio-signal-processing) on Audio Signal Processing. [Here](./Coursera-ASP) are the notes and assignments.
