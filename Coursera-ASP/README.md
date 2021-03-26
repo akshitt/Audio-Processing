@@ -1,7 +1,6 @@
-# Assignments & Notes
+# Notes
 
-## Week 1 - Introduction
+### Week 1 - [Introduction](./Week_1_Notes.ipynb)
 
-- [Notes](./Week_1_Notes.ipynb)
-- [Assignment Problems](./A1/A1-Python_and_sounds.pdf), Solutions in same directory
+### Week 2 - [Discrete Fourier Transform](./Week_2_Notes.ipynb)
 
