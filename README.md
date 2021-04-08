@@ -4,6 +4,16 @@ Will be reading up on audio processing and keeping relevant stuff here. Link to 
 ## Week-1
 - Revisited the paper on [Mechano-acoustic sensing](https://www.researchgate.net/publication/347308988_Long-term_continuous_and_multimodal_monitoring_of_respiratory_digital_biomarkers_via_wireless_epidermal_mechano-acoustic_sensing_in_clinical_and_home_settings_for_COVID-19_patients) of physiological processes
 - Went through MFCC [tutorial](https://www.kaggle.com/ilyamich/mfcc-implementation-and-tutorial), Here's the [summary](./MFCC_tutorial.ipynb) for reference.
-- Currently doing a [course](https://www.coursera.org/learn/audio-signal-processing) on Audio Signal Processing. [Here](./Coursera-ASP/README.md) are the notes and implementation.
+- Completed 4 weeks of a [course](https://www.coursera.org/learn/audio-signal-processing) on Audio Signal Processing. 
 - Read a publication on [Audio Super-Resolution](https://www.amazon.science/publications/audio-super-resolution-for-speech-recognition)
 - Went through the code provided by Moses in this [repository](https://github.com/mosesfuego/YES_NO-ALL)
+
+## Week-2
+- Went through 4 papers describing different methods of BWE -
+  - [A deep neural network approach to speech bandwidth expansion. 2015](https://sci-hub.do/10.1109/icassp.2015.7178801)
+  - [ Audio super-resolution using neural net](https://arxiv.org/pdf/1708.00853.pdf)
+  - [Speech Bandwidth Extension Using Generative Adversarial Networks](https://sci-hub.do/https://doi.org/10.1109/ICASSP.2018.8462588)
+  - [ Audio Super-Resolution for Speech Recognition](https://www.amazon.science/publications/audio-super-resolution-for-speech-recognition)
+
+## Week-3
+- Completed remaining 6 weeks of the [course](https://www.coursera.org/learn/audio-signal-processing) on Audio Signal Processing. [Here](./Coursera-ASP/README.md) are the notes and implementation.
