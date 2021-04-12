@@ -10,9 +10,9 @@ Will be reading up on audio processing and keeping relevant stuff here. Link to 
 
 ## Week-2
 - Went through 4 papers describing different methods of BWE -
-  - [A deep neural network approach to speech bandwidth expansion. 2015](https://sci-hub.do/10.1109/icassp.2015.7178801)
+  - [A deep neural network approach to speech bandwidth expansion. 2015](https://ieeexplore.ieee.org/document/7178801)
   - [ Audio super-resolution using neural net](https://arxiv.org/pdf/1708.00853.pdf)
-  - [Speech Bandwidth Extension Using Generative Adversarial Networks](https://sci-hub.do/https://doi.org/10.1109/ICASSP.2018.8462588)
+  - [Speech Bandwidth Extension Using Generative Adversarial Networks](https://ieeexplore.ieee.org/document/8462588)
   - [ Audio Super-Resolution for Speech Recognition](https://www.amazon.science/publications/audio-super-resolution-for-speech-recognition)
 
 ## Week-3
