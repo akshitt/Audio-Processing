@@ -14,6 +14,7 @@ Will be reading up on audio processing and keeping relevant stuff here. Link to 
   - [ Audio super-resolution using neural net](https://arxiv.org/pdf/1708.00853.pdf)
   - [Speech Bandwidth Extension Using Generative Adversarial Networks](https://ieeexplore.ieee.org/document/8462588)
   - [ Audio Super-Resolution for Speech Recognition](https://www.amazon.science/publications/audio-super-resolution-for-speech-recognition)
+  - Compiled them as a presentation - [Summary](https://docs.google.com/presentation/d/12bt9nd7ysvaw8uuf6zvIDTP-xHePY6l3UQP-r1t6V5E/edit?usp=sharing)
 
 ## Week-3
 - Completed remaining 6 weeks of the [course](https://www.coursera.org/learn/audio-signal-processing) on Audio Signal Processing. [Here](./Coursera-ASP/README.md) are the notes and implementation.
