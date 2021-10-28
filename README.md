@@ -19,8 +19,3 @@ Will be reading up on audio processing and keeping relevant stuff here. Link to 
 ## Week-3
 - Completed remaining 6 weeks of the [course](https://www.coursera.org/learn/audio-signal-processing) on Audio Signal Processing. [Here](./Coursera-ASP/README.md) are the notes and implementation.
 
-## Week 4-Now
-- Performed speaker recognition using feature-extraction on the readings taken by the medical device 
-- Performed Speech Emotion Recognition using feature extraction
-- Applied for a VISA and got issued 221(g) for the same 🤡🤡
-- I don't even play Valo these days, I definitely want to
