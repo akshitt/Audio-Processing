@@ -22,3 +22,4 @@ Will be reading up on audio processing and keeping relevant stuff here. Link to 
 ## Week 4-Now
 - Performed speaker recognition using feature-extraction on the readings taken by the medical device 
 - Performed Speech Emotion Recognition using feature extraction
+- Applied for a VISA and got issued 221(g) for the same 🤡🤡
