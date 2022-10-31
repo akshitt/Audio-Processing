@@ -1,5 +1,5 @@
 # Audio-Processing
-I Will be reading up on audio processing for my internship at Duke University and keeping relevant stuff here. Link to GDrive - [Duke](https://drive.google.com/drive/folders/1NIgnEmLMugQUwR_ilkgHIskqYfV8dx9c?usp=sharing)   
+I Will be reading up on audio processing for my internship at Duke University and keeping relevant stuff here. Link to Google Drive - [Duke](https://drive.google.com/drive/folders/1NIgnEmLMugQUwR_ilkgHIskqYfV8dx9c?usp=sharing)   
 [Progress Report](https://docs.google.com/document/d/1AbSwuFQhJF9W0XB-EotXYFiuZ9I35bLrpWuaBlJk2wo/edit?usp=sharing)
 ## Week-1
 - Revisited the paper on [Mechano-acoustic sensing](https://www.researchgate.net/publication/347308988_Long-term_continuous_and_multimodal_monitoring_of_respiratory_digital_biomarkers_via_wireless_epidermal_mechano-acoustic_sensing_in_clinical_and_home_settings_for_COVID-19_patients) of physiological processes
